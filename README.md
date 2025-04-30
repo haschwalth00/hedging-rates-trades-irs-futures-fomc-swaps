@@ -57,7 +57,7 @@ To demonstrate understanding of:
 
 ## Files
 
-- `Trade_Idea_Pay_Fixed_10Y_IRS.docx`: Trade strategy reference for 10Y swap exposure
+- `USD_Rates_Trade_Hedging_Citi_Simulation.docx`: Trade strategy reference for 10Y swap exposure
 - `Product Explanations.pdf`: Summary of IRS, FOMC swaps, and futures for context
 
 ## Disclaimer
